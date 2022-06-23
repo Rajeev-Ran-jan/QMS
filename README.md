@@ -20,6 +20,6 @@ The aim of this project is to build a Quarantine centre management system  which
 ### room_check.cpp - search for all the rooms.
 ### room_check.h - contains headers of the *room_check*.
 
-# Thanks You!
+# Thank You!
 
 
